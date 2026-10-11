@@ -50,7 +50,7 @@ The dashboard helps users identify top-performing mobile models, compare brands,
 ## Files in This Repository
 
 - `Mobile Phone Sales Analysis.pbix` — Power BI report
-- `screenshots/mobile-phone-sales-dashboard.png` — dashboard preview
+- `screenshots/Screenshot%202026-10-11%20171410.png` — dashboard preview
 
 ## How to View the Project
 
@@ -58,11 +58,6 @@ The dashboard helps users identify top-performing mobile models, compare brands,
 2. Open it using Power BI Desktop.
 3. Interact with the slicers to explore different brands, mobile models, payment methods, months, and days.
 
-The report may require the original dataset or a refresh configuration if the data source is external.
-
-## Data Source
-
-**Dataset:** [Add the dataset name and source here.]
 
 
 
