@@ -49,8 +49,8 @@ The dashboard helps users identify top-performing mobile models, compare brands,
 
 ## Files in This Repository
 
-- `Mobile Sales Power Bi Project.pbix` — Power BI report
-- `screenshots/Screenshot%202026-10-11%20171410.png` — dashboard preview
+- [Power BI Report](Mobile Sales Power Bi Project.pbix) — Download the interactive Power BI dashboard.
+- [Dashboard Screenshot](screenshots/Screenshot%202026-10-11%20171410.png) — View the dashboard preview.
 
 ## How to View the Project
 
