@@ -8,7 +8,7 @@ The dashboard helps users identify top-performing mobile models, compare brands,
 
 ## Dashboard Preview
 
-![Mobile Phone Sales Analysis Dashboard](screenshots/.gitkeep)
+![Mobile Phone Sales Dashboard](screenshots/mobile-phone-sales-dashboard.png)
 
 ## Tools and Technologies
 
