@@ -8,7 +8,7 @@ The dashboard helps users identify top-performing mobile models, compare brands,
 
 ## Dashboard Preview
 
-![Mobile Phone Sales Dashboard](screenshots/mobile-phone-sales-dashboard.png)
+![Mobile Phone Sales Dashboard](screenshots/Screenshot%202026-10-11%20171410.png)
 
 ## Tools and Technologies
 
